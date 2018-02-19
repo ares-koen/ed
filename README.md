@@ -8,4 +8,4 @@ Encryption utility based on the Public/Private key concept.
 
 If you'd like to help, send your donations to the bitcoin address shown below.
 
-* BTC: [1LEDgnVzcwckzVPrCyYqV7nV4PtDdWFab7](bitcoin:1LEDgnVzcwckzVPrCyYqV7nV4PtDdWFab7)
+* BTC: <a href="bitcoin:1LEDgnVzcwckzVPrCyYqV7nV4PtDdWFab7">1LEDgnVzcwckzVPrCyYqV7nV4PtDdWFab7</a>
